@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-29T13:08:19-05:00
+
+====== Elliot ======
+
+===== Discussion Log =====
+So, I've got a rough direction for you if you want to take it: centaur freelancer
+
+Interesting
+So I'm like the old, wisened beat cop paired with the new kid on the block who thinks he's all that
+but really, he's just a fancy calculator with "feelings"
+
+Re: your character, the general idea I've got is that you are a sort of industrial detective. Since so much is automated, sometimes something will break in a huge production chain and it takes a human to figure it out and come up with a solution. That's your job.
+
+I kinda want to be grumpy and old
+but likable
+not super grumpy
+Kinda Foy-esque
+
+Grumpy and old. If he's old that means he's been in the industry long enough to watch the automation _really_ take effect which might account for the 'grumpy' part
+
+Maybe I was one of the people who helped it take hold
+And am now seeing the consequences
+
+Maybe a former automation engineer? Working on accounting and human resource management software?
+
+Maybe one of those engineers that really _likes_ coding and never moved into management because of it
+The managers wound up richer than God and you were left behind because engineers aren't as valuable as they used to be
+You still find good work and make tons of money but not 'buy a small country'  money
+
+It's like if out of your friend group two people became gods and everyone else is broke but _you_ have enough money to be comfortable but only just. You feel jealous of the gods and piteous of the others.
+
+===== Demographic =====
+Mixed Asian Male, 47
+Born in March of 2002 in Oakland, CA
+Graduated 2024 from UC Berkley with a B.S. in Computer Science
+
+===== Backstory =====
+Elliot likes programming, he likes puzzles, he likes interesting and complicated //systems//. So his time working for Minimax in Austin, Texas, was fun. He was interned with them when he was 21 and was hired full-time when he graduated.
+
+Minimax worked on software infrastructure for logistics and transportation companies, things like inventory management, shipment scheduling, and supply chain optimization. Although they were a moderately small company, only employing around 100 full time workers, they built tools for huge clients like Maersk, Werner, and Schnieder.
+
+In 2032, the first generation Olivaw framework for adaptive machine learning was released. Minimax was one of the early adopters of this framework, building it into solutions for their clients, as well as using it internally.
+
+By this point, Elliot was a senior developer at Minimax and had been offered a position in management (which he turned down because he considered management dull and beneath him). He was named lead developer on an internal project for Minimax, an upgrade to their project management and human resources software that would assign developers to projects based on their past performance and schedule things out automatically.
+
+The software, codenamed 'Munchkin', surpassed everyone's expectations. Elliot designed it to use a number of learning engines based on the Olivaw framework and within a few weeks of learning it was able to take over the management of its own development. At first, Elliot found the experience of taking orders from a program he designed amusing. The novelty wore off quickly when Olivaw recommended Elliot be transferred away from the Munchkin development team. Munchkin was able to manage programmer time far better than Elliot or anyone else at Minimax.
+
+In fact, as Munchkin improved, it also picked up the ability to hire new developers and identified a strategy for using mostly remote developers in India and Africa. Minimax took advantage of this strategy to downsize, firing around 80% of their full time developers and using those that remained (including Elliot) to clean and optimize the code that was written remotely.
+
+Elliot was being paid quite well, Munchkin appearantly considered him a high-value asset, but he was dismayed by the experience of seeing most of his friends lose their jobs. Even his friends in management were concerned; with fewer employees there was less of a need for managers and with Munckin able to make so many decisions on its own the CEO was struggling to find an excuse to keep the department heads onboard.
+
+The work had changed, too. When Elliot had started he was making payroll software for truck drivers and database scaling for warehouses. Now the trucks were loaded, unloaded, and driven by machines and the warehouses were staffed by forklifts and drones. Instead of making cool software to get food from greenhouses to grocery stores faster, Elliot was mostly 'debugging' existing tools. This was not nearly as much fun.
+
+Eventually, Minimax let him go, too. In 2045 the Olivaw third gen tools were still new and buggy but they had gotten good enough to debug existing codebases and make minor changes so Minimax no longer needed any in-house developers. Elliot had seen the writing on the wall for some time and had been coding something up in his spare time.
+
+His program, which he didn't name because anthropomorphizing computer programs made him uncomfortable now, was a data analytics and visualization tool combined with a knowledge profiler. Elliot uses it to identify stupid things in global supply chains, find humans with an interest in said supply chains, and convince them to give him money and (ideally) stock in exchange for fixing the stupid thing. Elliot has been debugging programs since he was 16, now it has made him one of a rare class of people in the mid 21st century: profitably self-employed.
+
+===== Role =====
+Red-Blue; Elliot prizes his freedom and his ingenuity as well as his ability to see past the idiocies of others, machine and human alike.

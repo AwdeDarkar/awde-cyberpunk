@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-29T12:23:43-05:00
+
+====== Aiden ======
+
+===== Discussion Log =====
+I'm thinking your character will be the only one familiar with AI lore. The most impressive AIs are machine-learning built on top of "Reflexive Deciders" which allow the AI to introspect and make perfect precommitments. Natural language _sorta_ works but there are still oddities, AI generated code also sorta works but only for routine programming (and, specifically, they haven't gotten an RDAI to make a different RDAI yet). RDAIs are often modular and they can network with each other pretty well but only if carefully set up (this, too, has to be done by hand).
+
+The general direction I was thinking for you is a member of an open-source gray-hat hacker community. The internet has been increasingly compartmentalized and locked down by government and corporate interests and you guys are the ones trying to live outside that paradigm. And, of course, you have to be able to protect yourself against attacks by hired thugs. But you'll need to come up with the personality and aesthetic details.
+
+For character aesthetic, tall, thin, very short spiked black hair.
+
+My character is loyal to the death to people he is close to, but is very difficult for a new person to become close to. He's excessively wary about authority, and daydreams of overthrowing [insert whatever megacorp].
+
+He used to work as a penetration tester/security analyst for [megacorp]. Over the years though, he started noticing what seemed to be shady stuff going on behind the scenes. It started becoming a pattern that companies he helped test began to collapse for various reasons weeks to months after he had finished his analysis. He couldn't _actually_ tell or prove if he was a causal link, but he began to question what [megacorp] had actually hired him and his fellow analysts for. He tried to probe his superior regarding this and was promptly told to "shut up and get back to work. Asking too many questions will get you terminated." This culminated when he was asked to personally help test one of his old best friend's companies (best friend was CEO.) He met with his friend, and told him about his fears regarding [megacorp]. His friend viewed this as an opportunity to check/verify if the security holes he reported were then exploited or not, and proposed he put up a "false security weakness" that would immediately alert him if probed. Despite some misgivings, he went through with it, putting a small daemon into his friend's business's network that would check for attempted intrusion, submitting his falsified report, and waiting. The next day he tried to contact his friend to let him know, but with no response. Several more days came and went, with no sign of him. It wasn't uncommon for his best friend to take impromptu vacations, but concerned, my character decided to go to his house to check up on him. The front door was slightly ajar, and entering, he saw his friend laying in the front hallway, in a pool of his own blood.
+
+===== Demographic =====
+
+
+===== Backstory =====
+
+===== Role =====
+
+
+
+

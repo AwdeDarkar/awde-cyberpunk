@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-29T13:10:20-05:00
+
+====== Fred ======
+
+===== Discussion Log =====
+Could I play as a smooth talking lowlife? I donlt know how much detail you want me to give but something along that lines sounds alright.
+
+That sort of archetype of a sleazy asshole who sees the world as uncaring and is only in it for himself not caring much for the law.
+
+hmm I was thinking more of like a slummy drug dealer/ lowtime hacker thing but a corrupt corporate/ political person could be just as interesting.
+
+I think I will go with the corrupt asshole corporate man. Sounds interesting.
+
+I'm thinking you're somebody whose job description is "convince other people you're useful"
+
+===== Demographic =====
+Caucasian Male, 29
+Born in December of 2020 in Toronto, Ontario
+Graduated from UT Austin in 2043 with a B.A. in Communications
+
+===== Backstory =====
+Fred has always been a people-person and he knows how to get what he wants. When he was a kid, a lot of people were really scared about technology taking over everything but he figured people would adapt like they always did.
+
+Texas was hot and muggy but Fred liked the city. Austin had a unique culture to it, but more importantly in the 2030's, it had a unique tech bubble. Some of his friends at university invited him to a startup that was going to put state-of-the-art Olivaw machine learning on the blockchain (Olivecoin, they called it). Fred managed to convince some investors to throw //$2.3 million// at their company, he didn't know much about the tech itself but he was good at learning just enough to convince other people who //also// didn't know what they were talking about that he was some kind of tech genius. Fortunately, many investors fell into this category.
+
+Fred managed to cash out of Olivecoin early, netting himself an even $1 million, before the bottom fell out of the cryptocurrency market in 2043. He spent most of the money on Amazon stock (4 shares) and called in a favor to get himself a position as a manager at Werner Enterprises, a North American shipping giant. He got a nice office in the developing New York 2 arcology and helped manage expenses by downsizing departments that needed to be automated (Fred never understood why some managers were so squeamish about firing people) and occasionally collaborating with competitors to expand their business. Fred maintains that what the SEC doesn't know about won't hurt them.
+
+===== Role =====
+Black; Elliot is extremely self-interested and displays a not insignificant degree of sociopathy.
